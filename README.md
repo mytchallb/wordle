@@ -1,6 +1,6 @@
 # wordle
 
-A simple Vite app.
+My version of Wordle, as a simple Vite app.
 
 To install run `npm install`
 
